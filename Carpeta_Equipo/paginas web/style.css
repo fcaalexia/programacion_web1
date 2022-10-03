@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    background-image: url(fondo_tres.png);
+    background-size: cover;
+
+}
+
+#top{
+    height: 150px;
+    background-color: beige;
+
+
+}
+
+.contenedor{
+    width: 978px;
+    height: 600px;
+    margin: 0 auto;
+
+}
+
+#logo{
+    background-image: url(logo1.png);
+    width: 540px;
+    height: 380px;
+    
+}
+
+#post{
+    width: 75%;
+    float: left;
+    line-height: 1.5;
+}
